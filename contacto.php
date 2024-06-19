@@ -48,6 +48,5 @@ if((isset($_POST['nombre']) && !empty($_POST['nombre']))
       </form>
 </div>
 
-<script src="scripts.js"></script>
 </body>
 </html>
